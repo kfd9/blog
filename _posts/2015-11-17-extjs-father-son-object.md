@@ -2,7 +2,7 @@
 layout: post
 title:  "EXTJS获取父子、兄弟容器的办法"
 date:   2015-11-17 21:06:05
-categories: jekyll
+categories: extjs
 excerpt:  EXTJS获取父子、兄弟容器的办法
 ---
 

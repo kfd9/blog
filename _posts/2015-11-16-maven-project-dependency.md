@@ -2,7 +2,7 @@
 layout: post
 title:  "maven项目依赖问题"
 date:   2015-11-16 21:06:05
-categories: jekyll
+categories: maven
 excerpt:  maven项目依赖问题
 ---
 
