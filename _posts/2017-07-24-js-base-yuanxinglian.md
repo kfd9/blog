@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "js基础知识"
+title:  "js基础知识-原型链"
 date:   2017-07-24 23:25:09
 categories: js
-excerpt:  js基础知识
+excerpt:  js基础知识-原型链
 ---
 
 * content
