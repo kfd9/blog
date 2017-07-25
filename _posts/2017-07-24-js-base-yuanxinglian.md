@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "js基础知识-原型链"
-date:   2017-07-24 23:25:09
+title:  "js基础知识"
+date:   2016-01-01 21:25:09
 categories: js
-excerpt:  js基础知识-原型链
+excerpt:  js基础知识
 ---
 
 * content
@@ -73,7 +73,7 @@ b.printA();//this is A!
 
 ### 方式3
 
-> 使用call来实现继承，即用父对象替换当前对象，`call([thisObj[,arg1[, arg2[,   [,.argN]]]]]) `，当传入`this`对象时，还可以传入可变参数
+> 使用`call`来实现继承，即用父对象替换当前对象，`call([thisObj[,arg1[, arg2[,   [,.argN]]]]]) `，当传入`this`对象时，还可以传入可变参数
 
 ```
 var log = console.log;
@@ -96,7 +96,7 @@ b.printA();//this is A!
 ```
 ### 方式4
 
-> 使用call来实现继承，即用父对象替换当前对象，`apply([thisObj[,argArray]]) `，当传入`this`对象时，只能传入数组对象或者`arguments`
+> 使用`apply`来实现继承，即用父对象替换当前对象，`apply([thisObj[,argArray]]) `，当传入`this`对象时，只能传入数组对象或者`arguments`
 
 ```
 var log = console.log;
