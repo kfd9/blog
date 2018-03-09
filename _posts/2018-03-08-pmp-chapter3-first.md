@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "2018年3月9日 pmp第三章学习记录"
+title:  "2018-03-09-PMP-第三章学习记录"
 date:   2018-03-09 20:30:09
 categories: pmp
-excerpt:  2018年3月9日 pmp第三章学习记录
+excerpt:  2018-03-09-PMP-第三章学习记录
 ---
 
 * content
